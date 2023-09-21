@@ -1,0 +1,58 @@
+.titulo{
+  font-size: 50px;
+  color: darkblue;
+  margin-left: 100px;
+}
+
+.introduccion{
+  font-size: 25px;
+  color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.titulo2{
+  font-size: 35px;
+  color: darkblue;
+  margin-left: 100px;
+}
+
+.lista{
+  margin-left: 100px;
+  font-size: medium;
+}
+
+.card{
+  margin-left: 40%;
+  width: 300px;
+}
+
+.foto{
+  height: 250px !important;
+  padding-right: 100px;
+  padding-top: 100px;
+}
+
+.tabla{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.fotos{
+  width: 600px;
+  height: 250px;
+}
+
+.footer{
+  height: 200px;
+  position: relative;
+  background-color: beige;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  text-align: center;
+}
+
+.header{
+  background-color: aqua !important;
+}
